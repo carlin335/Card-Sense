@@ -1,0 +1,21 @@
+name: CardSense
+options:
+  xcodeVersion: "16.0"
+  developmentRegion: "en"
+  deploymentTarget:
+    iOS: "15.0"
+targets:
+  CardSense:
+    type: application
+    platform: iOS
+    sources:
+      - CardSense
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: $(PRODUCT_BUNDLE_IDENTIFIER)
+        TARGETED_DEVICE_FAMILY: "1,2"
+        INFOPLIST_FILE: CardSense/Info.plist
+        SWIFT_VERSION: "5.0"
+    configFiles:
+      Debug: Config.xcconfig
+      Release: Config.xcconfig
