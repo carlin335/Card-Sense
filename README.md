@@ -6,3 +6,4 @@ card detail view is designed to show entire card on page which displays the full
 <img width="820" height="1180" alt="IMG_1480 2" src="https://github.com/user-attachments/assets/c95cbee4-b5dc-4a23-8ab1-b3270eb87e01" />
 <img width="820" height="1180" alt="IMG_1479 2" src="https://github.com/user-attachments/assets/2576a668-5786-4a4f-a151-af5aaaddf4ac" />
 <img width="820" height="1180" alt="IMG_1482 2" src="https://github.com/user-attachments/assets/f4e46809-ee91-4292-8c38-06bc73adb2a9" />
+<img width="820" height="1180" alt="Screenshot 2026-02-17 at 5 33 51 PM" src="https://github.com/user-attachments/assets/051658d6-2cac-40bc-945f-24203a0a0440" />
